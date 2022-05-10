@@ -1,5 +1,5 @@
 
-## Hello there 👋 My name is André Vinicius and I'm a student and software developer. 👨🏾‍💻
+## My name is André Vinicius and I'm a student and software developer. 👨🏾‍💻
 
 <div align="center">
   <a href="https://github.com/Andre-Vinicius22">
