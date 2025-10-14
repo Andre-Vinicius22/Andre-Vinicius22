@@ -10,11 +10,12 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-plain.svg" />
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-plain.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqldeveloper/sqldeveloper-original.svg" />
 </div>
   
   ##
